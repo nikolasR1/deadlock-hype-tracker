@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.env
+*.db-wal
+*.db-shm
+data/item_names.json
+logs/
