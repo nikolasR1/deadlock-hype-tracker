@@ -12,7 +12,7 @@
 
 ## The problem
 
-After every *Deadlock* patch, r/DeadlockTheGame erupts over which hero got "gutted" or is "broken." But community outrage is noisy — and often wrong. This project joins two independent signals — **community sentiment** and **real win-rate movement** — and answers one question: *is the hype backed by reality?*
+After every *Deadlock* patch, r/DeadlockTheGame erupts over which hero got "gutted" or is "broken." But community outrage is noisy and often wrong. This project joins two independent signals — **community sentiment** and **real win-rate movement** and answers one question: *is the hype backed by reality?*
 
 ## Dashboard preview
 
