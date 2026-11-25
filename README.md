@@ -8,7 +8,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Auto-refresh](https://img.shields.io/badge/Auto--refresh-daily-2088FF?logo=githubactions&logoColor=white)](.github/workflows/daily_refresh.yml)
 
-[🚀 Live Demo (Coming Soon)](https://deadlock-hype-tracker.streamlit.app)
+[🚀 Live Demo ](https://deadlock-hype-tracker.streamlit.app)
 
 ## The problem
 
