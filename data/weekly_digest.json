@@ -1,71 +1,71 @@
 {
-  "generated_at": "2026-11-26T15:57:57.334659Z",
-  "computed_at": "2026-11-26",
+  "generated_at": "2026-11-27T15:45:14.481165Z",
+  "computed_at": "2026-11-27",
   "top_anomalies": [
     {
       "hero_name": "Mo & Krill",
       "quadrant": "Sleeper Buff",
-      "overreaction_score": -4.0766,
-      "avg_sentiment": -0.4513,
-      "win_rate_delta": 0.4124,
-      "mention_count": 3,
+      "overreaction_score": -2.8312,
+      "avg_sentiment": -0.0959,
+      "win_rate_delta": 0.5303,
+      "mention_count": 5,
       "sample_quote": "in my experience graves just sucks the skill expression and any ressemblance of fun you could possibly have in the entire match for everyone involved, I've put 200 hours into this game and since the last hero batch i've been playing almost daily, it's an amazing game, exceptionally designed, but sin"
     },
     {
       "hero_name": "Dynamo",
       "quadrant": "Justified Hype",
-      "overreaction_score": 2.8987,
-      "avg_sentiment": 0.4095,
-      "win_rate_delta": -0.3485,
-      "mention_count": 19,
+      "overreaction_score": 2.7082,
+      "avg_sentiment": 0.4171,
+      "win_rate_delta": -0.182,
+      "mention_count": 12,
       "sample_quote": "I have queued 40 games and lost 33. I play Ivy and Rem with a bit of Dynamo on occasion, and I am in no way good at this game. Every game I have either one or two afks, toxic people that just spend their game insulting me in chat, someone that never does anything productive for the game and sometime"
     },
     {
-      "hero_name": "Calico",
-      "quadrant": "Justified Hype",
-      "overreaction_score": 2.8025,
-      "avg_sentiment": 0.2182,
-      "win_rate_delta": -0.7009,
+      "hero_name": "Vindicta",
+      "quadrant": "Placebo Nerf",
+      "overreaction_score": -2.2739,
+      "avg_sentiment": -0.2658,
+      "win_rate_delta": 0.0072,
       "mention_count": 15,
-      "sample_quote": "Again, you are playing Ven into Seven Celeste, if you're not trying midgame to ensure those bad call can potentially be won fights because the midgame carry shows up with his powerspike for stakes to turn those bad dives into won teamfights you've already lost the game! \n\nAgain, high end ranked is n"
+      "sample_quote": "Bepbop kit is simply too much, the guy has a hook which is way better than stuff like paradox swap to confirm kills and requires the bare minimum aim to use since its extremely fast and doesnt reposition the user, for some reason its on a 23s cooldown on base, if upgraded to the Max it goes to 11,5 "
     }
   ],
   "top_by_quadrant": {
     "Placebo Nerf": {
       "hero_name": "Vindicta",
       "quadrant": "Placebo Nerf",
-      "overreaction_score": -1.8013,
+      "overreaction_score": -2.2739,
       "avg_sentiment": -0.2658,
-      "win_rate_delta": -0.0285,
+      "win_rate_delta": 0.0072,
       "mention_count": 15,
       "sample_quote": "Bepbop kit is simply too much, the guy has a hook which is way better than stuff like paradox swap to confirm kills and requires the bare minimum aim to use since its extremely fast and doesnt reposition the user, for some reason its on a 23s cooldown on base, if upgraded to the Max it goes to 11,5 "
     },
     "Sleeper Buff": {
       "hero_name": "Mo & Krill",
       "quadrant": "Sleeper Buff",
-      "overreaction_score": -4.0766,
-      "avg_sentiment": -0.4513,
-      "win_rate_delta": 0.4124,
-      "mention_count": 3,
+      "overreaction_score": -2.8312,
+      "avg_sentiment": -0.0959,
+      "win_rate_delta": 0.5303,
+      "mention_count": 5,
       "sample_quote": "in my experience graves just sucks the skill expression and any ressemblance of fun you could possibly have in the entire match for everyone involved, I've put 200 hours into this game and since the last hero batch i've been playing almost daily, it's an amazing game, exceptionally designed, but sin"
     },
     "Justified Hype": {
       "hero_name": "Dynamo",
       "quadrant": "Justified Hype",
-      "overreaction_score": 2.8987,
-      "avg_sentiment": 0.4095,
-      "win_rate_delta": -0.3485,
-      "mention_count": 19,
+      "overreaction_score": 2.7082,
+      "avg_sentiment": 0.4171,
+      "win_rate_delta": -0.182,
+      "mention_count": 12,
       "sample_quote": "I have queued 40 games and lost 33. I play Ivy and Rem with a bit of Dynamo on occasion, and I am in no way good at this game. Every game I have either one or two afks, toxic people that just spend their game insulting me in chat, someone that never does anything productive for the game and sometime"
     },
     "Legitimately Gutted": {
-      "hero_name": "Venator",
+      "hero_name": "Paige",
       "quadrant": "Legitimately Gutted",
-      "overreaction_score": 1.076,
-      "avg_sentiment": 0.0519,
-      "win_rate_delta": -0.418,
-      "mention_count": 23,
-      "sample_quote": "Venator is peak character design. Seriously, he's one of the coolest characters in the game. The concept of a battle-hardened priest, armed to the teeth, with a lit cigar in his mouth, screaming Bible verses in Latin, with a badass VO is an absolute masterpiece. Unfortunately, the character doesn't "
+      "overreaction_score": -1.8814,
+      "avg_sentiment": -0.2884,
+      "win_rate_delta": -0.1632,
+      "mention_count": 9,
+      "sample_quote": "I’ve also been annoyed with it but I decided to actually test it, here’s my results:\n\nAbrams - doesn't get it back  \nApollo - doesn't get it back  \nBaba - doesn't get it back  \nBebop - gets it back as long as beam hasn't started yet      \nBilly - doesn't cancel it, doesn't get it back  \nCalico - doe"
     }
   }
 }
